@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bucketlist</string>
+    <string name="new_bucketlist_entry_text">Neues Ziel für die Bucketlist ...</string>
+</resources>
